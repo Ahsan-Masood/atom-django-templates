@@ -1,4 +1,4 @@
-'.text.html.django':
+'.html':
   'autoescape':
     'prefix': 'autoescape'
     'body': '{% autoescape ${1:off} %}\n\t$2\n{% endautoescape %}'
